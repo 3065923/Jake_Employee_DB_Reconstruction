@@ -30,3 +30,13 @@ After database was created, several queries were created to obtain the following
 
 
 #### Folder Navigation
+
+Under EmployeesSQL folder:
+-pgerd file of database ERD
+-png file of ERD
+-sql file for table creation query
+-sql file for queries that answer proposed data analytics questions
+
+
+Instructions/Data folder:
+-holds all six csv files to import into created pgadmin tables
