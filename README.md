@@ -1,12 +1,20 @@
 # Jake_Employee_DB_Reconstruction
 
+
+
 ## Background
 
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
 
+
+
+
 ERD of created employee database:
 <img src='./EmployeeSQL/ERD_emp_reconstruction.png'></img>
+
+
+
 
 
 #### Data Analysis
