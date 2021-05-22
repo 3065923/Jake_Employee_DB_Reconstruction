@@ -7,12 +7,19 @@
 It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
 
 
+------------------------------------
+------------------------------------
+------------------------------------
 
 
 
 ERD of created employee database:
 <img src='./EmployeeSQL/ERD_emp_reconstruction.png'></img>
 
+
+------------------------------------
+------------------------------------
+------------------------------------
 
 
 
@@ -36,6 +43,10 @@ After database was created, several queries were created to obtain the following
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+------------------------------------
+------------------------------------
+------------------------------------
 
 
 
