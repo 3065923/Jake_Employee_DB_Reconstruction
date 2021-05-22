@@ -1,5 +1,9 @@
 -- Queries for data analyst questions
 
+
+--Views created to observe resultant tables created
+
+
 --List the following details of each employee: employee number, last name, first name, sex, and salary.
 
 create view da_query_1 as
