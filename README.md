@@ -6,7 +6,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 
 
 ERD of created employee database:
-<img src='./Employeessql/Output/bestandworst/top5%.png'></img>
+<img src='./EmployeeSQL/ERD_emp_reconstruction.png'></img>
 
 
 #### Data Analysis
